@@ -2,7 +2,7 @@
 
 Topological Data Analysis (TDA) is a powerful approach that reveals the underlying topological structures of data, encompassing both the physical topologies of real-world systems and the abstract topologies of high-dimensional datasets. Recently, TDA has sparked significant interest across multiple research directions, including its integration with Graph Neural Networks (GNNs), advancements in latent space representations—along with their extensions to multimodal models and knowledge distillation—and its applications in medical image processing. In this blog post, we’ll introduce high-quality recent TDA papers spanning these diverse areas, highlighting the innovative ways TDA is shaping modern data science.
 
-### Table of Contents
+
 
 <table>
 <tr><td colspan="2"><a href="#surveys-tools" style="color:#B22222">1. Surveys, Tools</a></td></tr>
