@@ -64,10 +64,10 @@ Topological Data Analysis (TDA) is a powerful approach that reveals the underlyi
 
 ### Books
 
-1. [Computational Topology: An Introduction](https://books.google.co.jp/books?hl=zh-CN&lr=&id=MDXa6gFRZuIC&oi=fnd&pg=PR11&dq=++Edelsbrunner&ots=CTTr7bWGoz&sig=PSIgWcXNqns1OEN8vqpyXbSn96E&redir_esc=y#v=onepage&q=Edelsbrunner&f=false), 2010
+1. [Computational Topology: An Introduction](https://books.google.co.jp/books?hl=zh-CN&lr=&id=MDXa6gFRZuIC&oi=fnd&pg=PR11&dq=++Edelsbrunner&ots=CTTr7bWGoz&sig=PSIgWcXNqns1OEN8vqpyXbSn96E&redir_esc=y#v=onepage&q=Edelsbrunner&f=false) - 2010 \
    *Herbert Edelsbrunner, John Harer*
 
-2. [Geometry and Topology for Mesh Generation](https://books.google.co.jp/books?hl=zh-CN&lr=&id=v6BybEYVGqYC&oi=fnd&pg=PP15&dq=++Edelsbrunner&ots=nwurY_Jdlg&sig=4cYx-AJzld_YfddtX6-Q1e5tat0&redir_esc=y#v=onepage&q=Edelsbrunner&f=false), 2001
+2. [Geometry and Topology for Mesh Generation](https://books.google.co.jp/books?hl=zh-CN&lr=&id=v6BybEYVGqYC&oi=fnd&pg=PP15&dq=++Edelsbrunner&ots=nwurY_Jdlg&sig=4cYx-AJzld_YfddtX6-Q1e5tat0&redir_esc=y#v=onepage&q=Edelsbrunner&f=false) - 2001 \
    *Herbert Edelsbrunner*
 
 ## Application
