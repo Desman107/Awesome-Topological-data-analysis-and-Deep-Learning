@@ -10,30 +10,34 @@ Topological Data Analysis (TDA) is a powerful approach that reveals the underlyi
     <td> <a href="#surveys">1.1 Surveys</a></td>
     <td> <a href="#code-of-tools">1.2 Code of Tools</a></td>
 </tr>
+<tr>
+    <td> <a href="#books">1.3 Books</a></td>
+    <td></td>
+</tr>
 <tr><td colspan="2"><a href="#application" style="color:#B22222">2. Application</a></td></tr>
 <tr>
-    <td> <a href="#data-representation">2.1 Data Representation</a></td>
-    <td> <a href="#tda-in-multimodal">2.2 TDA in Multimodal</a></td>
+    <td> <a href="#tda-in-hyperbolic-representations">2.1 TDA in Hyperbolic Representations</a></td>
+    <td> <a href="#data-representation">2.2 Data Representation</a></td>
 </tr>
 <tr>
-    <td> <a href="#medical-image-and-image-segmentation">2.3 Medical Image and Image Segmentation</a></td>
-    <td> <a href="#tda-in-knowledge-distillation">2.4 TDA in Knowledge Distillation</a></td>
+    <td> <a href="#tda-in-multimodal">2.3 TDA in Multimodal</a></td>
+    <td> <a href="#medical-image-and-image-segmentation">2.4 Medical Image and Image Segmentation</a></td>
 </tr>
 <tr>
-    <td> <a href="#gnn-graph-neural-networks">2.5 GNN (Graph Neural Networks)</a></td>
-    <td> <a href="#tda-tools-and-methods">2.6 TDA Tools and Methods</a></td>
+    <td> <a href="#tda-in-knowledge-distillation">2.5 TDA in Knowledge Distillation</a></td>
+    <td> <a href="#gnn-graph-neural-networks">2.6 GNN (Graph Neural Networks)</a></td>
 </tr>
 <tr>
-    <td> <a href="#tda-in-bio-informatics">2.7 TDA in Bio-Informatics</a></td>
-    <td> <a href="#tda-in-neural-networks-analysis">2.8 TDA in Neural Networks Analysis</a></td>
+    <td> <a href="#tda-tools-and-methods">2.7 TDA Tools and Methods</a></td>
+    <td> <a href="#tda-in-bio-informatics">2.8 TDA in Bio-Informatics</a></td>
 </tr>
 <tr>
-    <td> <a href="#tda-in-other-fields-of-application">2.9 TDA in Other Fields of Application</a></td>
-    <td></td>
+    <td> <a href="#tda-in-neural-networks-analysis">2.9 TDA in Neural Networks Analysis</a></td>
+    <td> <a href="#tda-in-other-fields-of-application">2.10 TDA in Other Fields of Application</a></td>
 </tr>
 </table>
 
-## Surveys, Tools
+## Surveys, Tools, Books
 <a name="surveys-tools"></a>
 
 ### Surveys
@@ -55,8 +59,25 @@ Topological Data Analysis (TDA) is a powerful approach that reveals the underlyi
 4. [Pllay: Efficient topological layer based on persistent landscapes](https://proceedings.neurips.cc/paper_files/paper/2020/hash/b803a9254688e259cde2ec0361c8abe4-Abstract.html) - **NeurIPS, 2020**  
    *Kwangho Kim, Jisu Kim, Manzil Zaheer, Joon Kim, Frédéric Chazal, Larry Wasserman*
 
+5. [GPU-accelerated computation of Vietoris-Rips persistence barcodes](http://arxiv.org/abs/2003.07989) - **Symposium on Computational Geometry, 2020**  
+   *Simon Zhang, Mengbai Xiao, Hao Wang Kim, Jae-Hun Jung*
+
+### Books
+
+1. [Computational Topology: An Introduction](https://books.google.co.jp/books?hl=zh-CN&lr=&id=MDXa6gFRZuIC&oi=fnd&pg=PR11&dq=++Edelsbrunner&ots=CTTr7bWGoz&sig=PSIgWcXNqns1OEN8vqpyXbSn96E&redir_esc=y#v=onepage&q=Edelsbrunner&f=false), 2010
+   *Herbert Edelsbrunner, John Harer*
+
+2. [Geometry and Topology for Mesh Generation](https://books.google.co.jp/books?hl=zh-CN&lr=&id=v6BybEYVGqYC&oi=fnd&pg=PP15&dq=++Edelsbrunner&ots=nwurY_Jdlg&sig=4cYx-AJzld_YfddtX6-Q1e5tat0&redir_esc=y#v=onepage&q=Edelsbrunner&f=false), 2001
+   *Herbert Edelsbrunner*
+
 ## Application
 <a name="application"></a>
+
+
+### TDA in Hyperbolic Representations
+1. [Learning Hyperbolic Representations of Topological Features](https://arxiv.org/abs/2103.09273) - **ICLR, 2021**
+   *Panagiotis Kyriakis, Iordanis Fostiropoulos, Paul Bogdan*
+
 
 ### Data Representation
 <a name="data-representation"></a>
@@ -167,10 +188,7 @@ Topological Data Analysis (TDA) is a powerful approach that reveals the underlyi
 5. [A stable multi-scale kernel for topological machine learning](http://openaccess.thecvf.com/content_cvpr_2015/html/Reininghaus_A_Stable_Multi-Scale_2015_CVPR_paper.html) - **CVPR, 2015**  
    *Jan Reininghaus, Stefan Huber, Ulrich Bauer, Roland Kwitt*
 
-6. [GPU-accelerated computation of Vietoris-Rips persistence barcodes](http://arxiv.org/abs/2003.07989) - **Symposium on Computational Geometry, 2020**  
-   *Simon Zhang, Mengbai Xiao, Hao Wang Kim, Jae-Hun Jung*
-
-7. [PI-Net: A Deep Learning Approach to Extract Topological Persistence Images](https://ieeexplore.ieee.org/document/9151070/) - **CVPR Workshops, 2020**  
+6. [PI-Net: A Deep Learning Approach to Extract Topological Persistence Images](https://ieeexplore.ieee.org/document/9151070/) - **CVPR Workshops, 2020**  
    *Anirudh Som, Hongjun Choi, Karthikeyan Natesan Ramamurthy, Matthew P. Buman, Pavan Turaga*
 
 ### TDA in Bio-Informatics
