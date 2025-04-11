@@ -75,7 +75,7 @@ Topological Data Analysis (TDA) is a powerful approach that reveals the underlyi
 
 
 ### TDA in Hyperbolic Representations
-1. [Learning Hyperbolic Representations of Topological Features](https://arxiv.org/abs/2103.09273) - **ICLR, 2021**
+1. [Learning Hyperbolic Representations of Topological Features](https://arxiv.org/abs/2103.09273) - **ICLR, 2021** \
    *Panagiotis Kyriakis, Iordanis Fostiropoulos, Paul Bogdan*
 
 
@@ -196,6 +196,9 @@ Topological Data Analysis (TDA) is a powerful approach that reveals the underlyi
 
 1. [Representation of molecular structures with persistent homology for machine learning applications in chemistry](https://www.nature.com/articles/s41467-020-17035-5) - **Nature Communications, 2020**  
    *Jacob Townsend, Cassie Putman Micucci, John H. Hymel, Vas Angkor Wat, Vasileios Maroulas, Konstantinos D. Vogiatzis*
+
+2. [Improving Self-supervised Molecular Representation Learning using Persistent Homology](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6b555e8552240d6dfe0767146c9ebf36-Abstract-Conference.html) - **NeurIPS, 2023** \
+   *Yuankai Luo, Lei Shi, Veronika Thost*
 
 ### TDA in Neural Networks Analysis
 <a name="tda-in-neural-networks-analysis"></a>
