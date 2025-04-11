@@ -194,11 +194,14 @@ Topological Data Analysis (TDA) is a powerful approach that reveals the underlyi
 ### TDA in Bio-Informatics
 <a name="tda-in-bio-informatics"></a>
 
-1. [Representation of molecular structures with persistent homology for machine learning applications in chemistry](https://www.nature.com/articles/s41467-020-17035-5) - **Nature Communications, 2020**  
+1. [Representation of molecular structures with persistent homology for machine learning applications in chemistry](https://www.nature.com/articles/s41467-020-17035-5) - **Nature Communications, 2020**  \
    *Jacob Townsend, Cassie Putman Micucci, John H. Hymel, Vas Angkor Wat, Vasileios Maroulas, Konstantinos D. Vogiatzis*
 
 2. [Improving Self-supervised Molecular Representation Learning using Persistent Homology](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6b555e8552240d6dfe0767146c9ebf36-Abstract-Conference.html) - **NeurIPS, 2023** \
    *Yuankai Luo, Lei Shi, Veronika Thost*
+
+3. [ToDD: Topological Compound Fingerprinting in Computer-Aided Drug Discovery](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b31f6d65f2584b3c4347148db36fe07f-Abstract-Conference.html) - **NeurIPS, 2022** \
+   *Andaç Demir, Baris Coskunuzer, Yulia Gel, Ignacio Segovia-Dominguez, Yuzhou Chen, Bulent Kiziltan*
 
 ### TDA in Neural Networks Analysis
 <a name="tda-in-neural-networks-analysis"></a>
