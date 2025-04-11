@@ -170,6 +170,9 @@ Topological Data Analysis (TDA) is a powerful approach that reveals the underlyi
 8. [Curvature filtrations for graph generative model evaluation](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c710d6b4507e70c6332bee871b8d1ca5-Abstract-Conference.html) - **NeurIPS, 2023**  
    *Joshua Southern, Jeremy Wayland, Michael Bronstein, Bastian Rieck*
 
+9. [Neural Approximation of Graph Topological Features](https://proceedings.neurips.cc/paper_files/paper/2022/hash/d7ce06e9293c3d8e6cb3f80b4157f875-Abstract-Conference.html) - **NeurIPS, 2022** 
+    *Zuoyu Yan, Tengfei Ma, Liangcai Gao, Zhi Tang, Yusu Wang, Chao Chen* 
+
 ### TDA Tools and Methods
 <a name="tda-tools-and-methods"></a>
 
